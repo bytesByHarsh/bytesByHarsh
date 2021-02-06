@@ -2,6 +2,10 @@
 
 I am an Embedded Software Engineer at [Asteria Aerospace](https://www.asteria.co.in). I am currently working on developing drones with advance capabilities using on-board computation.
 
+[![Linkedin Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshmittal2210/)](https://www.linkedin.com/in/harshmittal2210/)
+[![Medium Badge](https://img.shields.io/badge/-@harshmittal2210-blue?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@harshmittal2210)](https://medium.com/@harshmittal2210)
+[![YouTube Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)](https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)
+
 ## Find me around the web 🌎:
 
 - To read my blogs : @[harshmittal2210](https://medium.com/@harshmittal2210)
