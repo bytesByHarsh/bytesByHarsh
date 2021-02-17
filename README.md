@@ -5,6 +5,9 @@ I am an Embedded Software Engineer at [Asteria Aerospace](https://www.asteria.co
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshmittal2210/)](https://www.linkedin.com/in/harshmittal2210/)
 [![Medium Badge](https://img.shields.io/badge/-@harshmittal2210-blue?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@harshmittal2210)](https://medium.com/@harshmittal2210)
 [![YouTube Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)](https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)
+![Visitors](https://komarev.com/ghpvc/?username=harshmittal2210&color=blue&style=flat-square&label=Profile--Hits)
+
+
 
 ## Find me around the web 🌎:
 
@@ -18,7 +21,10 @@ I am an Embedded Software Engineer at [Asteria Aerospace](https://www.asteria.co
 
 Thanks for being here, you're awesome 🙌
 
-[![Visitors](http://hits.dwyl.com/harshmittal2210/https://githubcom/harshmittal2210/harshmittal2210.svg)](http://hits.dwyl.com/harshmittal2210/https://githubcom/harshmittal2210/harshmittal2210)
+
+
+
+
 <!--
 **harshmittal2210/harshmittal2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
