@@ -1,6 +1,6 @@
 ### Hi, I'm Harsh Mittal 👋
 
-I am an Embedded Software Engineer at [Asteria Aerospace](https://www.asteria.co.in). I am currently working on developing drones with advance capabilities using on-board computation.
+I am a Robotics Engineer (ASL) at [Brane Enterprises](https://nslhub.com/). I am currently working on developing drones with advance capabilities using on-board computation. I have previously also woked with [Asteria Aerospace](https://www.asteria.co.in) and [CRON AI](https://cronai.ai/). In total I have 2+ years of experience in the field of Robotics, Embedded System and AI.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshmittal2210/)](https://www.linkedin.com/in/harshmittal2210/)
 [![Medium Badge](https://img.shields.io/badge/-@harshmittal2210-blue?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@harshmittal2210)](https://medium.com/@harshmittal2210)
@@ -11,10 +11,10 @@ I am an Embedded Software Engineer at [Asteria Aerospace](https://www.asteria.co
 
 ## Find me around the web 🌎:
 
-- To read my blogs : @[harshmittal2210](https://medium.com/@harshmittal2210)
+- To read my blogs : @[harshmittal2210](http://www.harshmittal.co.in/tutorials)
 - To watch my tutorial videos : [YouTube](https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)
 - Sharing Updates and Interacting with community on [LinkedIn](https://www.linkedin.com/in/harshmittal2210)
-- Portfolio: [www.harshmittal.tech](http://harshmittal.tech)
+- Portfolio: [www.harshmittal.co.in](http://harshmittal.co.in)
 
 ## How to reach me 📫:
 - Email: harshmittal2210@gmail.com
