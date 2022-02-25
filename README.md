@@ -4,7 +4,7 @@ I am a Robotics Engineer (ASL) at [Brane Enterprises](https://nslhub.com/). I am
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshmittal2210/)](https://www.linkedin.com/in/harshmittal2210/)
 [![Medium Badge](https://img.shields.io/badge/-@harshmittal2210-blue?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@harshmittal2210)](https://medium.com/@harshmittal2210)
-[![YouTube Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)](https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)
+[![YouTube Badge](https://img.shields.io/badge/-Harsh--Mittal-blue?style=flat-square&logo=YouTube&logoColor=red&link=https://www.youtube.com/c/HarshMittalYoutube)](https://www.youtube.com/c/HarshMittalYoutube)
 ![Visitors](https://komarev.com/ghpvc/?username=harshmittal2210&color=blue&style=flat-square&label=Profile--Hits)
 
 
