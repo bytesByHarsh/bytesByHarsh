@@ -12,7 +12,7 @@ I am a Robotics Engineer (ASL) at [Brane Enterprises](https://nslhub.com/). I am
 ## Find me around the web 🌎:
 
 - To read my blogs : @[harshmittal2210](http://www.harshmittal.co.in/tutorials)
-- To watch my tutorial videos : [YouTube](https://www.youtube.com/channel/UCy7od6BxAv0NeVZ09CDhuFw)
+- To watch my tutorial videos : [YouTube](https://www.youtube.com/c/HarshMittalYoutube)
 - Sharing Updates and Interacting with community on [LinkedIn](https://www.linkedin.com/in/harshmittal2210)
 - Portfolio: [www.harshmittal.co.in](http://harshmittal.co.in)
 
