@@ -2,10 +2,10 @@
 
 🔭 I am the Software Team Lead (SL), working on developing drones with advanced capabilities using on-board computation. I have 4+ years of experience in Robotics, Embedded Systems, and AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshmittal2210)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshmittal-blog)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HarshMittalYoutube) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshmittal2210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bytesByHarsh)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://bytesByHarsh.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bytesByHarsh) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bytesByHarsh)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14002303)
 ![Visitors](https://komarev.com/ghpvc/?username=harshmittal2210&color=blue&style=flat-square&label=Profile--Hits)
 
@@ -14,8 +14,8 @@
 
 ## Find me around the web 🌎:
 
-- To watch my tutorial videos : [YouTube](https://www.youtube.com/c/HarshMittalYoutube)
-- Sharing Updates and Interacting with the community on [LinkedIn](https://www.linkedin.com/in/harshmittal2210)
+- To watch my tutorial videos : [YouTube](https://www.youtube.com/@bytesByHarsh)
+- Sharing Updates and Interacting with the community on [LinkedIn](https://www.linkedin.com/in/bytesByHarsh)
 - Portfolio: [www.harshmittal.com](https://harshmittal.com)
 - Tutorials: [www.harshmittal.com/tutorials](www.harshmittal.com/tutorials)
 - Blogs: [www.harshmittal.com/blogs](www.harshmittal.com/blogs)
