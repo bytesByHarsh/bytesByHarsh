@@ -17,8 +17,8 @@
 - To watch my tutorial videos : [YouTube](https://www.youtube.com/@bytesByHarsh)
 - Sharing Updates and Interacting with the community on [LinkedIn](https://www.linkedin.com/in/bytesByHarsh)
 - Portfolio: [www.harshmittal.com](https://harshmittal.com)
-- Tutorials: [www.harshmittal.com/tutorials](www.harshmittal.com/tutorials)
-- Blogs: [www.harshmittal.com/blogs](www.harshmittal.com/blogs)
+- Tutorials: [www.harshmittal.com/tutorials](https://www.harshmittal.com/tutorials)
+- Blogs: [www.harshmittal.com/blogs](https://www.harshmittal.com/blogs)
 
 ## How to reach me 📫:
 - Email: harshmittal2210@gmail.com
